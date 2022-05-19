@@ -11,7 +11,7 @@
 * Document chunking options for long documents
 * Phrases in topics by setting `ngram_vocab=True`
 
-Top2Vec
+Top2Vec M-1
 ======= 
 
 Top2Vec is an algorithm for **topic modeling** and **semantic search**. It automatically detects topics present in text
